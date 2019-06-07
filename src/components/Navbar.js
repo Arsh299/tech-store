@@ -32,6 +32,7 @@ const NavWrapper = styled.nav`
     padding:1rem 1.5rem;
     background-image: linear-gradient(160deg, #82ddff -51%, #ffffff 51%, #82ddff 136%);
     border-bottom:3px solid var(--primaryColor);
+    z-index:1;
     .nav-center{
       display:flex;
       align-items:center;
